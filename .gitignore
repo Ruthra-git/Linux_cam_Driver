@@ -1,0 +1,15 @@
+*.ko
+*.o
+*.mod
+*.mod.c
+*.mod.o
+Module.symvers
+modules.order
+.tmp_versions/
+*.raw
+build_log.txt
+regression_results.txt
+checkpatch_results.txt
+vcam_custom_image.h
+test_mmap
+test_dmabuf
